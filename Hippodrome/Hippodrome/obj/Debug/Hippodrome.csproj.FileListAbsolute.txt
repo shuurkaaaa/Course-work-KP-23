@@ -1,0 +1,22 @@
+C:\VS\Чипижная\Hippodrome\Hippodrome\bin\Debug\Hippodrome.exe.config
+C:\VS\Чипижная\Hippodrome\Hippodrome\bin\Debug\Hippodrome.exe
+C:\VS\Чипижная\Hippodrome\Hippodrome\bin\Debug\Hippodrome.pdb
+C:\VS\Чипижная\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.AssemblyReference.cache
+C:\VS\Чипижная\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.SuggestedBindingRedirects.cache
+C:\VS\Чипижная\Hippodrome\Hippodrome\obj\Debug\Hippodrome.Form1.resources
+C:\VS\Чипижная\Hippodrome\Hippodrome\obj\Debug\Hippodrome.Properties.Resources.resources
+C:\VS\Чипижная\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.GenerateResource.cache
+C:\VS\Чипижная\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.CoreCompileInputs.cache
+C:\VS\Чипижная\Hippodrome\Hippodrome\obj\Debug\Hippodrome.exe
+C:\VS\Чипижная\Hippodrome\Hippodrome\obj\Debug\Hippodrome.pdb
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\bin\Debug\Hippodrome.exe.config
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\bin\Debug\Hippodrome.exe
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\bin\Debug\Hippodrome.pdb
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.AssemblyReference.cache
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\obj\Debug\Hippodrome.Form1.resources
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\obj\Debug\Hippodrome.Properties.Resources.resources
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.GenerateResource.cache
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\obj\Debug\Hippodrome.exe
+C:\Users\Александра\Downloads\Нова папка\Hippodrome\Hippodrome\obj\Debug\Hippodrome.pdb
